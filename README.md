@@ -1,0 +1,1 @@
+Para rodar o projeto execute npm install em 'api-sucos' e 'sucos'. Depois execute cada um separadamente com npm run dev no 'sucos' e npm run start:dev na 'api-sucos'
