@@ -1,0 +1,16 @@
+.status {
+  padding: 0.75rem 0.75rem;
+  border-radius: 25px;
+}
+
+.emPrepracao {
+  background-color: #fff3cd;
+}
+
+.misturando {
+  background-color: #cce5ff;
+}
+
+.retirada {
+  background-color: #d4edda;
+}
